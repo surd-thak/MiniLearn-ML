@@ -2,21 +2,6 @@
 
 A minimal machine learning library for educational purposes. This project implements various machine learning algorithms from scratch to help understand the underlying concepts.
 
-## Project Structure
-
-```
-MiniLearn/
-├── linear_model/       # Linear models implementations
-├── neighbors/          # Nearest neighbors algorithms
-├── cluster/           # Clustering algorithms
-├── neural_network/    # Neural network implementations
-├── metrics/           # Evaluation metrics
-├── utils/            # Utility functions
-├── datasets/         # Example datasets
-├── tests/            # Unit tests
-├── examples/         # Example scripts
-└── notebooks/        # Jupyter notebooks
-```
 
 ## Installation
 
