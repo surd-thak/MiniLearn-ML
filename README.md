@@ -40,6 +40,3 @@ pip install -e .
 Check the `examples/` directory for usage examples of each algorithm.
 
 
-## License
-
-
