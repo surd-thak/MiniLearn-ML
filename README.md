@@ -7,7 +7,7 @@ A minimal machine learning library for educational purposes. This project implem
 
 ```bash
 # Clone the repository
-git clone [your-repo-url]
+git clone https://github.com/surd-thak/MiniLearn-ML
 
 # Create and activate virtual environment
 python -m venv venv
