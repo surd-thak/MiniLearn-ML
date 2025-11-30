@@ -39,13 +39,6 @@ pip install -e .
 
 Check the `examples/` directory for usage examples of each algorithm.
 
-## Testing
-
-Run tests using pytest:
-
-```bash
-pytest tests/
-```
 
 ## License
 
